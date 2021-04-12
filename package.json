@@ -1,0 +1,11 @@
+{
+  "name": "@vannguyen234/test",
+  "private": true,
+  "scripts": {
+    "debug": "node ./debug",
+    "test": "npx folio"
+  },
+  "devDependencies": {
+    "@playwright/test": "^0.1100.0"
+  }
+}
